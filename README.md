@@ -3,7 +3,7 @@
 <p align="center">
 Nesse desafio, você deverá criar uma aplicação, a partir de um layout visto em aula, para treinar o que aprendeu até agora no Stage 03 sobre Formulários. <br/>
 
-<img alt="Formulários" src="./imagens/Formulários.png" width="100%">
+<img alt="Formulários" src="./imagens/Projeto 03.png" width="100%">
 
 ## 🚀 Tecnologias
 
