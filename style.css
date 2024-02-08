@@ -67,7 +67,7 @@ form {
     gap: 48px;
 }
 
-fieldset {
+fieldseat {
     border: none;
 }
 
@@ -77,7 +77,7 @@ fieldset {
     gap: 24px;    
 }
 
-fieldset legend {
+fieldseat legend {
     font-family: 'Archivo', sans-serif;
     font-size: 24px;
     font-weight: 600;
